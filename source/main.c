@@ -11,6 +11,7 @@ int main(int argc, char const *argv[])
     printf("Ingrese el segundo digito.\n");
     scanf("%d", &b);
     printf("El resultado es: %d",  suma(a,b));
+    printf("El resultado es: %d",  resta(a,b));
 
     return 0;
 }
