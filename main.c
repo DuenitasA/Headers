@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include "archivo.h"
 
 int main(int argc, char const *argv[])
 {
@@ -9,6 +10,7 @@ int main(int argc, char const *argv[])
     scanf("%d", &a);
     printf("Ingrese el segundo digito.\n");
     scanf("%d", &b);
+    printf("El resultado es: %d",  suma(a,b));
 
     return 0;
 }

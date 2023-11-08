@@ -1,3 +1,5 @@
+#include "archivo.h"
+
 int suma(int a, int b){
 
 
