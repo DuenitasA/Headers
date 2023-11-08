@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "archivo.h"
+#include "../librerias/archivo.h"
 
 int main(int argc, char const *argv[])
 {

@@ -1,5 +1,4 @@
-#include "archivo.h"
-
+#include "../librerias/archivo.h"
 int suma(int a, int b){
 
 
